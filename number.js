@@ -94,3 +94,9 @@ tan: ƒ tan()
 tanh: ƒ tanh()
 trunc: ƒ trunc()
 */
+console.log("add "+add(3,4));
+function add(n1,n2) {
+    return n1+n2;
+}
+
+
